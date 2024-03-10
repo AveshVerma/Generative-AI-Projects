@@ -50,7 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
+secrets.py
 #Model files
 *.safetensors
 *.h5
